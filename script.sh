@@ -1,4 +1,5 @@
 #!/bin/bash
+chmod +x script.sh
 echo "your installation process in being started"
 pkg update &
 pkg install proot-distro &
