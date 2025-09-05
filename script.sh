@@ -1,4 +1,4 @@
-./script.sh
+#!/bin/bash
 echo "your installation process in being started"
 pkg update &
 pkg install proot-distro &
